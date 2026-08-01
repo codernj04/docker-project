@@ -29,7 +29,6 @@ docker-project/
 │   └── server.js
 │
 ├── dockerfile
-├── requirements.txt
 └── README.md
 ```
 
